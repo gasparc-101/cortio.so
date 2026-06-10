@@ -69,7 +69,7 @@ Cortio.so is designed to be intuitive and easy to use. Here's a quick guide on h
 
 ## 📄 License
 
-All rights are reserved to the author. It is not intended for public distribution or modification without explicit permission.
+All rights are reserved to the author. The project is not intended for public distribution or modification without explicit permission.
 
 ---
 
