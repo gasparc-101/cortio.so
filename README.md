@@ -69,8 +69,8 @@ Cortio.so is designed to be intuitive and easy to use. Here's a quick guide on h
 
 ## 📄 License
 
-This project is currently closed source and all rights are reserved by the author. It is not intended for public distribution or modification without explicit permission.
+All rights are reserved to the author. It is not intended for public distribution or modification without explicit permission.
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/therakius">therakius.</a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/itsgaspr">gaspr.</a></p>
